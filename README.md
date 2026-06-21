@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Isha 👋
 
-<!--
-**CoderIshaGudwani/CoderIshaGudwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer
 
-Here are some ideas to get you started:
+🚀 Building modern web applications with React and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Node.js, Express.js, and MongoDB
+
+🎯 Goal: Become a Full-Stack MERN Developer
+
+---
+
+## 🛠 Tech Stack
+
+HTML | CSS | JavaScript | React | Node.js | MongoDB | Git | GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React
+- REST APIs
+- Express.js
+- MongoDB
+
+---
+
+## 📌 Projects Coming Soon
+
+- Portfolio Website
+- Weather App
+- Expense Tracker
+- MERN Blog Application
+
+---
+
+## 📫 Connect With Me
+
+📧 gudwaniisha@gmail.com
