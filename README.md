@@ -59,7 +59,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - Build 10+ real-world projects
 - Master React
